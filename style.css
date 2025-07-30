@@ -1,0 +1,19 @@
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+
+}
+.yellow{
+    background-color: yellow;
+}
+.random{
+    background-color:grey;
+}
+button{
+    border-radius: 5px;
+    height: 40px;
+    width: 100px;
+    margin: 5px;
+}
